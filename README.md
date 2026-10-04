@@ -2,6 +2,10 @@
 
 A Spring Boot & Spring Cloud-based Quiz application built using a microservices architecture. It allows dynamic generation and management of quizzes, fetching questions by category, and calculating scores.
 
+
+<img width="1376" height="768" alt="quiz_microservices_architecture_1791112979013" src="https://github.com/user-attachments/assets/db229592-a74c-4c8f-96d2-9b8d0562704b" />
+
+
 ---
 
 ## 🏗️ Architecture Overview
