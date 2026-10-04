@@ -1,0 +1,18 @@
+# target build directories
+target/
+**/target/
+
+# IDE files
+.idea/
+**/.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+**/.vscode/
+.settings/
+.classpath
+.project
+
+# Logs and temp files
+*.log
